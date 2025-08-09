@@ -1,0 +1,9 @@
+user:
+  city: "Delhi"
+  enable: true
+  roles:
+    - ADMIN
+    - USER
+  metadata:
+    age: 25
+    registered: true
